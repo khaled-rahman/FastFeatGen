@@ -1,6 +1,6 @@
 # FastFeatGen #
 
-This is a tool for faster feature extraction from genome sequences and making efficient prediction. To build efficient prediction model, user can go through the following instructions step by step. If user only wants to predict query sequences from our built model, then just go to step 'Make prediction for query sequences'.
+This is a tool for faster feature extraction from genome sequences and making efficient prediction. To build efficient prediction model, user can go through the following instructions step by step. If user only wants to predict query sequences from our built model, then just go to step `Make prediction for query sequences`. Currently, FastFeatGen supports text file as shown in dataset.txt file in datasets directory; however, fasta file can also be used with a simple preprocessing.
 
 ## System Requirements ##
 
