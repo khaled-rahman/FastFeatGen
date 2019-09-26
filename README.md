@@ -65,4 +65,4 @@ After running this, our provided model will be used to predict the classificatio
 Some extracted features can be found [here](https://drive.google.com/drive/folders/1X8qFrkBZM-Anzt3Z8U-duK0R313pLfSA?usp=sharing). Our results and log files can be found at `results` folder.
 
 ## Contact
-This tool is maintained by Md. Khaledur Rahman. If you face any problem or have any query, don't hesitate to send an eamil to khaled.cse.07@gmail.com or, morahma@iu.edu
+This tool is maintained by Md. Khaledur Rahman. If you face any problem or have any query, don't hesitate to send an email to khaled.cse.07@gmail.com or, morahma@iu.edu
