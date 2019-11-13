@@ -64,5 +64,11 @@ After running this, our provided model will be used to predict the classificatio
 ## Extracted Features and Results ##
 Some extracted features can be found [here](https://drive.google.com/drive/folders/1X8qFrkBZM-Anzt3Z8U-duK0R313pLfSA?usp=sharing). Our results and log files can be found at `results` folder.
 
+## Citation ##
+If you find this repository helpful, please cite the following paper:
+```
+Md. Khaledur Rahman, "FastFeatGen: Faster parallel feature extraction from genome sequences and efficient prediction of DNA N6-methyladenine sites", In the 9th Proceedings of International Conference on Computational Advances in Bio and medical Sciences (ICCABS 2019), November, 2019, Florida, USA.
+```
+
 ## Contact
 This tool is maintained by Md. Khaledur Rahman. If you face any problem or have any query, don't hesitate to send an email to khaled.cse.07@gmail.com or, morahma@iu.edu
