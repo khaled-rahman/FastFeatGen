@@ -9,6 +9,7 @@ Users need to have following softwares/tools installed on their PC.
 GCC version >= 4.9
 OpenMP version >= 4.5
 Python version >= 3.6.6
+Python packages: sklearn, mathplotlib, keras
 ```
 
 ## Compile and Run feature extraction ##
